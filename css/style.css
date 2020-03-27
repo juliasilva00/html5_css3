@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    margin-left:  100px;
+    margin-right: 240px;
+}
+header {
+    margin-top: 100px
+}
+ .img_padrao {
+     margin-bottom: 20px;
+ }
+ .logo {
+     width: 30px;
+ }
+ 
+ footer {
+     margin-top: 30px;
+ }
